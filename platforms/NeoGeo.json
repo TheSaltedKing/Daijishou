@@ -1,6 +1,6 @@
 {
   "databaseVersion": 14,
-  "revisionNumber": 10,
+  "revisionNumber": 11,
   "platform": {
     "name": "Neo Geo",
     "uniqueId": "neogeo",
@@ -35,7 +35,7 @@
       "uniqueId": "neogeo.com.explusalpha.NeoEmu",
       "description": "Supported extensions: zip, 7z.",
       "acceptedFilenameRegex": "^(.*)\\.(?:zip|7z)$",
-      "amStartArguments": "-n com.explusalpha.NeoEmu/com.imagine.BaseActivity\n  -d {file.path}\n  -t application/zip",
+      "amStartArguments": "-n com.explusalpha.NeoEmu/com.imagine.BaseActivity\n  -d {file.uri}\n  -t application/zip",
       "killPackageProcesses": false,
       "killPackageProcessesWarning": true,
       "extra": ""
