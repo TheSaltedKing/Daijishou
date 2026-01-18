@@ -1,6 +1,6 @@
 {
   "databaseVersion": 14,
-  "revisionNumber": 5,
+  "revisionNumber": 6,
   "platform": {
     "name": "Video Player",
     "uniqueId": "videos",
@@ -54,6 +54,16 @@
       "description": "Supported extensions: mkv, mpeg, mpg, avi, mp4, mov.",
       "acceptedFilenameRegex": "^(.*)\\.(?:mp4|avi|mpg|mpeg|mov|mkv|webm|m4a)$",
       "amStartArguments": "-n com.mxtech.videoplayer.pro/.ActivityScreen\n -a android.intent.action.VIEW\n -d {file.path} \n --activity-clear-task\n  --activity-clear-top",
+      "killPackageProcesses": true,
+      "killPackageProcessesWarning": true,
+      "extra": ""
+    },
+    {
+      "name": "videos - Kodi",
+      "uniqueId": "videos.org.xbmc.kodi",
+      "description": "Supported extensions: mkv, mpeg, mpg, avi, mp4, mov.",
+      "acceptedFilenameRegex": "^(.*)\\.(?:mp4|avi|mpg|mpeg|mov|mkv|webm|m4a)$",
+      "amStartArguments": "-n org.xbmc.kodi/.Main\n -a android.intent.action.VIEW\n -d {file.path}\n",
       "killPackageProcesses": true,
       "killPackageProcessesWarning": true,
       "extra": ""
