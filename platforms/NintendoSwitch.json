@@ -1,6 +1,6 @@
 {
   "databaseVersion": 14,
-  "revisionNumber": 18,
+  "revisionNumber": 19,
   "platform": {
     "name": "Nintendo Switch",
     "uniqueId": "switch",
@@ -50,11 +50,21 @@
       "extra": ""
     },
     {
-      "name": "switch - eden (Legacy/Optimized)",
-      "uniqueId": "switch.dev.eden.eden_emulator_legacy",
+      "name": "switch - eden (Optimized)",
+      "uniqueId": "switch.com.miHoYo.Yuanshen.eden",
       "description": "Supported extensions: nro, nso, nca, xci, nsp.",
       "acceptedFilenameRegex": "^(.*)\\.(?:nro|nso|nca|xci|nsp)$",
       "amStartArguments": "-n com.miHoYo.Yuanshen/org.yuzu.yuzu_emu.activities.EmulationActivity\n  -a android.nfc.action.TECH_DISCOVERED\n  -d {file.uri}",
+      "killPackageProcesses": false,
+      "killPackageProcessesWarning": false,
+      "extra": ""
+    },
+    {
+      "name": "switch - eden (Legacy)",
+      "uniqueId": "switch.dev.legacy.eden_emulator",
+      "description": "Supported extensions: nro, nso, nca, xci, nsp.",
+      "acceptedFilenameRegex": "^(.*)\\.(?:nro|nso|nca|xci|nsp)$",
+      "amStartArguments": "-n dev.legacy.eden_emulator/org.yuzu.yuzu_emu.activities.EmulationActivity\n  -a android.nfc.action.TECH_DISCOVERED\n  -d {file.uri}",
       "killPackageProcesses": false,
       "killPackageProcessesWarning": false,
       "extra": ""
