@@ -1,6 +1,6 @@
 {
   "databaseVersion": 14,
-  "revisionNumber": 9,
+  "revisionNumber": 10,
   "platform": {
     "name": "PICO-8",
     "uniqueId": "pico8",
@@ -20,6 +20,16 @@
     "extra": ""
   },
   "playerList": [
+    {
+      "name": "pico8 - PICO-8 Android",
+      "uniqueId": "pico8.io.wip.pico8",
+      "description": "Supported extensions: p8, png.",
+      "acceptedFilenameRegex": "^(.*)\\.(?:p8|png)$",
+      "amStartArguments": "-n io.wip.pico8/com.godot.game.GodotApp\n -d {file.uri}",
+      "killPackageProcesses": true,
+      "killPackageProcessesWarning": true,
+      "extra": ""
+    },
     {
       "name": "pico8 - Infinity P8 Player",
       "uniqueId": "pico8.me.dt2dev.infinity",
