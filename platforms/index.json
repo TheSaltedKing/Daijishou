@@ -454,7 +454,7 @@
       "platformName": "Nintendo Wii",
       "platformShortname": "wii",
       "platformUniqueId": "wii",
-      "revisionNumber": 12
+      "revisionNumber": 13
     },
     {
       "filename": "NintendoWiiU.json",
@@ -468,7 +468,7 @@
       "platformName": "Nintendo WiiWare",
       "platformShortname": "wiiware",
       "platformUniqueId": "wiiware",
-      "revisionNumber": 6
+      "revisionNumber": 7
     },
     {
       "filename": "PICO8.json",
@@ -664,7 +664,7 @@
       "platformName": "Steam",
       "platformShortname": "steam",
       "platformUniqueId": "steam",
-      "revisionNumber": 4
+      "revisionNumber": 5
     },
     {
       "filename": "SuperGrafx.json",
