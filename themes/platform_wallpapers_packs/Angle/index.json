@@ -27,6 +27,11 @@
       "filename": "cloudgaming.png"
     },
     {
+      "matchPlatformShortname": "collection",
+      "matchPlatformUniqueId": "collection",
+      "filename": "collection.png"
+    },
+    {
       "matchPlatformShortname": "dreamcast",
       "matchPlatformUniqueId": "dreamcast",
       "filename": "dc.png"
