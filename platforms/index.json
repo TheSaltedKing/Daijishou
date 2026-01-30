@@ -48,7 +48,7 @@
       "platformName": "Arduboy",
       "platformShortname": "arduboy",
       "platformUniqueId": "arduboy",
-      "revisionNumber": 3
+      "revisionNumber": 4
     },
     {
       "filename": "Atari2600.json",
@@ -468,7 +468,7 @@
       "platformName": "Nintendo Wii U",
       "platformShortname": "wiiu",
       "platformUniqueId": "wiiu",
-      "revisionNumber": 9
+      "revisionNumber": 10
     },
     {
       "filename": "NintendoWiiWare.json",
