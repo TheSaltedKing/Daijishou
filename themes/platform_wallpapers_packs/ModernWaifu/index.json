@@ -531,6 +531,16 @@
       "matchPlatformShortname": "xbox360",
       "matchPlatformUniqueId": "xbox360",
       "filename": "xbox360.png"
+    },
+    {
+      "matchPlatformShortname": "model3",
+      "matchPlatformUniqueId": "model3",
+      "filename": "model3.png"
+    },
+    {
+      "matchPlatformShortname": "idtech",
+      "matchPlatformUniqueId": "idtech",
+      "filename": "idtech.png"
     }
   ]
 }
