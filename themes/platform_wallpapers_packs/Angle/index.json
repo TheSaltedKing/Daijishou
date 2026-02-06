@@ -127,6 +127,11 @@
       "filename": "psp.png"
     },
     {
+      "matchPlatformShortname": "ports",
+      "matchPlatformUniqueId": "ports",
+      "filename": "ports.png"
+    },
+    {
       "matchPlatformShortname": "wii",
       "matchPlatformUniqueId": "wii",
       "filename": "wii.png"
