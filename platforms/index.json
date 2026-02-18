@@ -258,21 +258,21 @@
       "platformName": "Game Boy",
       "platformShortname": "gb",
       "platformUniqueId": "gb",
-      "revisionNumber": 16
+      "revisionNumber": 17
     },
     {
       "filename": "GameBoyAdvance.json",
       "platformName": "Game Boy Advance",
       "platformShortname": "gba",
       "platformUniqueId": "gba",
-      "revisionNumber": 15
+      "revisionNumber": 16
     },
     {
       "filename": "GameBoyColor.json",
       "platformName": "Game Boy Color",
       "platformShortname": "gbc",
       "platformUniqueId": "gbc",
-      "revisionNumber": 16
+      "revisionNumber": 17
     },
     {
       "filename": "GameCube.json",
@@ -573,14 +573,14 @@
       "platformName": "Sega Game Gear",
       "platformShortname": "gamegear",
       "platformUniqueId": "gamegear",
-      "revisionNumber": 14
+      "revisionNumber": 15
     },
     {
       "filename": "SegaGenesis.json",
       "platformName": "Sega Genesis",
       "platformShortname": "genesis",
       "platformUniqueId": "genesis",
-      "revisionNumber": 13
+      "revisionNumber": 14
     },
     {
       "filename": "SegaGenesisMSU.json",
@@ -594,7 +594,7 @@
       "platformName": "Sega Master System",
       "platformShortname": "master",
       "platformUniqueId": "master",
-      "revisionNumber": 13
+      "revisionNumber": 14
     },
     {
       "filename": "SegaModel3.json",
