@@ -52,6 +52,11 @@
       "filename": "gba.png"
     },
     {
+      "matchPlatformShortname": "gamenative",
+      "matchPlatformUniqueId": "gamenative",
+      "filename": "gamenative.png"
+    },
+    {
       "matchPlatformShortname": "gbc",
       "matchPlatformUniqueId": "gbc",
       "filename": "gbc.png"
@@ -410,6 +415,11 @@
       "matchPlatformShortname": "supergrafx",
       "matchPlatformUniqueId": "supergrafx",
       "filename": "supergrafx.png"
+    },
+    {
+      "matchPlatformShortname": "retroarch",
+      "matchPlatformUniqueId": "retroarch",
+      "filename": "retroarch.png"
     },
     {
       "matchPlatformShortname": "moonlight",
