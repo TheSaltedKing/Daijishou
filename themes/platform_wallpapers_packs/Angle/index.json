@@ -566,6 +566,26 @@
       "matchPlatformUniqueId": "recent",
       "filename": "recent.png"
     },
+        {
+      "matchPlatformShortname": "model3",
+      "matchPlatformUniqueId": "model3",
+      "filename": "model3.png"
+    },
+        {
+      "matchPlatformShortname": "idtech",
+      "matchPlatformUniqueId": "idtech",
+      "filename": "IDTech4A++.png"
+    },
+        {
+      "matchPlatformShortname": "triforce",
+      "matchPlatformUniqueId": "triforce",
+      "filename": "triforce.png"
+    },
+        {
+      "matchPlatformShortname": "ndsi",
+      "matchPlatformUniqueId": "ndsi",
+      "filename": "ndsi.png"
+    },
     {
       "matchPlatformShortname": "tgcd",
       "matchPlatformUniqueId": "tgcd",
