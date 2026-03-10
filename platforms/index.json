@@ -104,7 +104,7 @@
       "platformName": "Atomiswave",
       "platformShortname": "atomiswave",
       "platformUniqueId": "atomiswave",
-      "revisionNumber": 8
+      "revisionNumber": 9
     },
     {
       "filename": "BBCMicro.json",
@@ -286,7 +286,7 @@
       "platformName": "idTech4A++",
       "platformShortname": "idtech",
       "platformUniqueId": "idtech",
-      "revisionNumber": 1
+      "revisionNumber": 2
     },
     {
       "filename": "Intellivision.json",
@@ -342,7 +342,7 @@
       "platformName": "Microsoft - Xbox",
       "platformShortname": "xbox",
       "platformUniqueId": "xbox",
-      "revisionNumber": 2
+      "revisionNumber": 3
     },
     {
       "filename": "MicrosoftXbox360.json",
@@ -356,7 +356,7 @@
       "platformName": "Moonlight Streaming",
       "platformShortname": "moonlight",
       "platformUniqueId": "moonlight",
-      "revisionNumber": 5
+      "revisionNumber": 6
     },
     {
       "filename": "NECPC88.json",
@@ -608,14 +608,14 @@
       "platformName": "Sega Model 3",
       "platformShortname": "model3",
       "platformUniqueId": "model3",
-      "revisionNumber": 1
+      "revisionNumber": 2
     },
     {
       "filename": "SegaNAOMI.json",
       "platformName": "Sega Naomi",
       "platformShortname": "naomi",
       "platformUniqueId": "naomi",
-      "revisionNumber": 10
+      "revisionNumber": 11
     },
     {
       "filename": "SegaPico.json",
