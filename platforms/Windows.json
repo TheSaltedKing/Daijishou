@@ -1,6 +1,6 @@
 {
   "databaseVersion": 14,
-  "revisionNumber": 9,
+  "revisionNumber": 10,
   "platform": {
     "name": "Windows",
     "uniqueId": "windows",
@@ -26,7 +26,7 @@
       "uniqueId": "windows.winlator.cmod",
       "description": "Supported extensions: desktop",
       "acceptedFilenameRegex": "^(.*)\\.(?:desktop)$",
-      "amStartArguments": "-n com.winlator.cmod/.XServerDisplayActivity\n  -e shortcut_path {file.path}\n  --activity-clear-task\n  --activity-clear-top\n  --activity-no-history",
+      "amStartArguments": "-n com.winlator.cmod/.XServerDisplayActivity\n -e shortcut_path {file.path}\n --activity-clear-task\n --activity-clear-top\n --activity-no-history",
       "killPackageProcesses": true,
       "killPackageProcessesWarning": true,
       "extra": ""
@@ -36,7 +36,7 @@
       "uniqueId": "windows.winlator.cmodproot",
       "description": "Supported extensions: desktop",
       "acceptedFilenameRegex": "^(.*)\\.(?:desktop)$",
-      "amStartArguments": "-n com.cmodded.winlator/com.winlator.XServerDisplayActivity\n  -e shortcut_path {file.path}\n  --activity-clear-task\n  --activity-clear-top\n  --activity-no-history",
+      "amStartArguments": "-n com.cmodded.winlator/com.winlator.XServerDisplayActivity\n -e shortcut_path {file.path}\n --activity-clear-task\n --activity-clear-top\n --activity-no-history",
       "killPackageProcesses": true,
       "killPackageProcessesWarning": true,
       "extra": ""
@@ -46,7 +46,7 @@
       "uniqueId": "windows.winlator.cmod.old",
       "description": "Supported extensions: desktop",
       "acceptedFilenameRegex": "^(.*)\\.(?:desktop)$",
-      "amStartArguments": "-n com.winlator/.XServerDisplayActivity\n  -e shortcut_path {file.path}\n  --activity-clear-task\n  --activity-clear-top\n  --activity-no-history",
+      "amStartArguments": "-n com.winlator/.XServerDisplayActivity\n -e shortcut_path {file.path}\n --activity-clear-task\n --activity-clear-top\n --activity-no-history",
       "killPackageProcesses": true,
       "killPackageProcessesWarning": true,
       "extra": ""
@@ -56,7 +56,7 @@
       "uniqueId": "windows.micewine.emu",
       "description": "Supported extensions: lnk",
       "acceptedFilenameRegex": "^(.*)\\.(?:lnk)$",
-      "amStartArguments": "-n com.micewine.emu/com.micewine.emu.activities.MainActivity\n -e exePath {file.path}\n  --activity-clear-task\n  --activity-clear-top\n  --activity-no-history",
+      "amStartArguments": "-n com.micewine.emu/com.micewine.emu.activities.MainActivity\n -e exePath {file.path}\n --activity-clear-task\n --activity-clear-top\n --activity-no-history",
       "killPackageProcesses": true,
       "killPackageProcessesWarning": true,
       "extra": ""
