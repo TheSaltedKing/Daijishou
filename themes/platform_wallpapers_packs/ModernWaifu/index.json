@@ -546,6 +546,11 @@
       "matchPlatformShortname": "triforce",
       "matchPlatformUniqueId": "triforce",
       "filename": "triforce.png"
+    },
+    {
+      "matchPlatformShortname": "xbox",
+      "matchPlatformUniqueId": "xbox",
+      "filename": "xbox.png"
     }
   ]
 }
